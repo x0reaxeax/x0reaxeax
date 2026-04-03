@@ -8,8 +8,10 @@ https://github.com/x0reaxeax/x0reaxeax/assets/61374847/a0206544-a96b-4549-bf60-7
 ![eye24](eye24.ico) Website: [x0reaxe.ax](http://x0reaxe.ax)  
 ![yt24](yt24.ico) YouTube: [@x0reaxeax](https://youtube.com/@x0reaxeax)  
 
-
-## Gaming stuff
+<details>
+    
+<summary>Gaming stuff</summary>
+    
 - Grounded 2
     - [Grounded2Minimal - Grounded2 trainer](https://github.com/x0reaxeax/Grounded2Minimal)
     - [G2Dumper](https://github.com/x0reaxeax/G2Dumper)
@@ -37,3 +39,5 @@ https://github.com/x0reaxeax/x0reaxeax/assets/61374847/a0206544-a96b-4549-bf60-7
     - [PaliaMinimal2 - Force item placement / building restriction remover tool](https://github.com/x0reaxeax/PaliaMinimal2)
 - Saleblazers
     - [SaleblazersFreeMove - Building restriction remover](https://github.com/x0reaxeax/SaleblazersFreeMove)
+
+</details>
