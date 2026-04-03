@@ -21,6 +21,8 @@ https://github.com/x0reaxeax/x0reaxeax/assets/61374847/a0206544-a96b-4549-bf60-7
         - [MWCrashFix - 5iq Crash "Fix"](https://github.com/x0reaxeax/MWCrashFix)
     - Heat
         - [nfsheat-hshifter - H-Shifter support](https://github.com/x0reaxeax/nfsheat-hshifter)
+- Palworld
+    - [Palworld-NoGrapplingGunCooldown - Grappling hook cooldown remover](https://github.com/x0reaxeax/Palworld-NoGrapplingGunCooldown)
 - Mad Max
     - [MadMaxCrashFix - Startup Crash Fix](https://github.com/x0reaxeax/MadMaxCrashFix)
 - Resident Evil 6
